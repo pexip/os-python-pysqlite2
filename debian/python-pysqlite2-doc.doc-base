@@ -1,0 +1,12 @@
+Document: python-pysqlite2-doc
+Title: PySQLite 2 Manual
+Author: Gerhard Haring
+Abstract: Manual for PySQLite 2
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-pysqlite2-doc/html/index.html
+Files:
+ /usr/share/doc/python-pysqlite2-doc/html/_sources/*
+ /usr/share/doc/python-pysqlite2-doc/html/_static/*
+ /usr/share/doc/python-pysqlite2-doc/html/*.html
