@@ -1,9 +1,11 @@
 Source: python-pysqlite2
 Section: python
 Priority: optional
-Maintainer: Joel Rosdahl <joel@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Joel Rosdahl <joel@debian.org>
 Build-Depends: debhelper (>= 8), python-all-dev (>= 2.6.6-3~), python-all-dbg, libsqlite3-dev (>= 3.3.8), python-sphinx (>= 0.6.1)
 Standards-Version: 3.9.2
+XS-Pexip-Upstream: http://archive.ubuntu.com/ubuntu/ precise
 
 Package: python-pysqlite2
 Architecture: any

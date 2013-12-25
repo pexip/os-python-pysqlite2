@@ -1,3 +1,9 @@
+python-pysqlite2 (2.6.3-2build1pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 25 Dec 2013 03:03:40 +0000
+
 python-pysqlite2 (2.6.3-2build1) precise; urgency=low
 
   * Rebuild to drop python2.6 dependencies.
